@@ -6,7 +6,7 @@ A simple, interactive two-player dice game built to master DOM manipulation and 
 <img width="1918" height="871" alt="image" src="https://github.com/user-attachments/assets/94a3ec86-6f4b-4cc5-b370-c4c5de6f4a30" />
 
 ## 🚀 Live Demo
-[View Live Site](https://omar14352465.github.io/YOUR-REPO-NAME/)
+[View Live Site]([https://omar14352465.github.io/YOUR-REPO-NAME/](https://omar14352465.github.io/Javascript-Project-Dice-Game/))
 
 ## 🕹️ Game Rules
 1. **Roll the Dice**: Players take turns rolling a single die.
